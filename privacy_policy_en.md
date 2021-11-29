@@ -1,9 +1,8 @@
 ---
+title: Privacy Policy
 layout: post
 permalink: /privacy-policy-en
 ---
-
-# Privacy Policy
 
 Effective date: Jun 6, 2021
 

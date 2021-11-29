@@ -1,10 +1,8 @@
 ---
+title: User Guide
 layout: post
 permalink: /support-en
 ---
-# User Guide
-
-***
 
 ## Markin supports Markdown 🎨
 
