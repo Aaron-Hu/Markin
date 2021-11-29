@@ -2,8 +2,10 @@
 layout: post
 permalink: /support-en
 ---
-# Markin Guide
+# User Guide
+
 ***
+
 ## Markin supports Markdown 🎨
 
 > Everything you write are stored as markdown

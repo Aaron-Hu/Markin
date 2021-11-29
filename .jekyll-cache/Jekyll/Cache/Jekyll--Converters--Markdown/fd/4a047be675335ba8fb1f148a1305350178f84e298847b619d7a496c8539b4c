@@ -1,5 +1,7 @@
-I"�<h1 id="markin-guide">Markin Guide</h1>
+I"�<h1 id="user-guide">User Guide</h1>
+
 <hr />
+
 <h2 id="markin-supports-markdown-">Markin supports Markdown 🎨</h2>
 
 <blockquote>
@@ -15,9 +17,11 @@
 <img src="markin.gif" alt="write efficiently" /></li>
 </ul>
 
-<h2 id="workspace-">Workspace 🪐</h2>
+<h2 id="stored-on-your-computer">Stored on your computer</h2>
+<p>Files that you create in <strong>Markin</strong> are stored on your Mac. It’s safe and controlled on your own. To open it, right-click on the file or folder you want to open in <strong>Markin</strong> and click <code class="language-plaintext highlighter-rouge">Reveal in Finder</code>
+<img src="local.png" alt="Stored on your computer" /></p>
 
-<h2 id="workspace--1">Workspace 🪐</h2>
+<h2 id="workspace-">Workspace 🪐</h2>
 
 <p>:::
 The <strong>Workspace</strong> panel in the left column is the area to manage documents, where you can create, delete, and so on.
@@ -41,6 +45,9 @@ Using the ••• button in the upper right corner to open the toolbar.
   <li>Theme - Light or Dark</li>
   <li>Export - Export as PDF, HTML or Markdown</li>
 </ul>
+
+<h2 id="table-of-contents">Table of contents</h2>
+<p><img src="toc.png" alt="Toc" /></p>
 
 <h2 id="emoji">Emoji😀</h2>
 
@@ -76,4 +83,5 @@ Using the ••• button in the upper right corner to open the toolbar.
 
 <p>You are free to sync these files into iCloud. If you don’t know how to use iCloud, please read Apple’s iCloud documentation.</p>
 
+<p><a href="./">Home</a></p>
 :ET
