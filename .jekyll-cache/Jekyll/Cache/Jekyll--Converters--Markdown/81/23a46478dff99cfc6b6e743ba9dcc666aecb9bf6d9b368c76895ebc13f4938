@@ -1,0 +1,96 @@
+I"<h1 id="markin-is-beautiful-and-efficient"><strong>Markin is beautiful and efficient📝</strong></h1>
+
+<blockquote>
+  <p><strong>Everything you write are stored as markdown</strong></p>
+</blockquote>
+
+<p><img src="markin.png" alt="write efficiently" />
+Welcome to <strong>Markin</strong>. <strong>Markin</strong> is a beautiful, simple and efficient writing software that supports <strong>Markdown</strong>. With efficiency and quick commands, you can focus on writing and notes taking.</p>
+<ul>
+  <li>No need to remember Markdown syntax, <strong>/</strong> is your friend.</li>
+  <li>Type <strong>/</strong> in a new line to insert everything you need.</li>
+  <li>Select any text to change its style, customise format is simple.</li>
+</ul>
+
+<p><img src="markin.gif" alt="write efficiently" /></p>
+
+<h1 id="table-of-contents-is-supported">Table of contents is supported</h1>
+
+<blockquote>
+  <p>TOC can be generated automatically</p>
+</blockquote>
+
+<p>A <strong>table of contents,</strong> usually headed simply Contents and abbreviated informally as <strong>TOC,</strong> is a list, usually found on a page before the start of a written work, <code class="language-plaintext highlighter-rouge">of</code> its chapter or section titles or brief descriptions.</p>
+
+<p><strong>Table of Contents</strong> is supported, TOC can be generated automatically. TOC displayed on the top right.</p>
+
+<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+
+<p><a href="./support-en.html">Check out</a>.</p>
+
+<h2 id="workspace-">Workspace 🪐</h2>
+
+<p>:::
+The <strong>Workspace</strong> panel in the left column is the area to manage documents, where you can create, delete, and so on.
+:::</p>
+
+<ul>
+  <li><strong>To create files or folder in the specified directory</strong>. Simply select the destination directory and click the New Document or Folder button.</li>
+  <li><strong>To create files or folders at the top level of Workspace</strong>. You need to first click WORKSPACE or the blank area in the left panel. The blue border that appears around left panel indicates that Workspace is selected. Click the New File or Folder button at this point to create a file or folder directly under Workspace.</li>
+  <li><strong>More actions with Right-click.</strong> Right-click on a file or folder and you will see more actions.</li>
+</ul>
+
+<p>\</p>
+<h2 id="toolbar-">Toolbar 🛠</h2>
+
+<p>:::tip
+Using the ••• button in the upper right corner to open the toolbar.</p>
+
+<p>:::</p>
+
+<ul>
+  <li>Text - Adjust font size</li>
+  <li>TOC - Open and close the content list</li>
+  <li>Theme - Light or Dark</li>
+  <li>Export - Export as PDF, HTML or Markdown</li>
+</ul>
+
+<h2>/</h2>
+
+<p>Type <code class="language-plaintext highlighter-rouge">/</code> on a new line or click the <code class="language-plaintext highlighter-rouge">+</code> of the new line to quickly insert text elements.</p>
+
+<h2 id="emoji">Emoji😀</h2>
+
+<p><code class="language-plaintext highlighter-rouge">shift+command+space</code> or Edit &gt; Emoji &amp; Symbols</p>
+
+<h2 id="page-break">Page break</h2>
+
+<p>Insert a Page break with <code class="language-plaintext highlighter-rouge">/</code> to split the Page when exporting as PDF.</p>
+
+<hr />
+
+<h2 id="drag-and-drop">Drag and drop</h2>
+
+<p>You can drag and drop files from a folder to another.</p>
+
+<h2 id="open-file-or-folder-in-local-file-system">Open file or folder in local file-system</h2>
+
+<p>Files that you create in <strong>Markin</strong> are stored on your Mac. To open it, right-click on the file or folder you want to open in <strong>Markin</strong> and click <code class="language-plaintext highlighter-rouge">Reveal in Finder</code>.</p>
+
+<p>You can operate <strong>Markin</strong> stored files like any other files on your local disk, such as backup, uploading to iCloud, web disk, etc.</p>
+
+<h2 id="import-file-into-markin">Import file into Markin</h2>
+
+<p>Files that you create in <strong>Markin</strong> are stored on your Mac, and <strong>Markin</strong> read files locally. After opening your local directory with <code class="language-plaintext highlighter-rouge">Reveal in Finder</code>, move the files into the directory, <strong>Markin</strong> can read them automatically.</p>
+
+<p>:::
+<strong>Markin</strong> just support Markdown files (.md)
+:::</p>
+
+<h2 id="sync-to-icloud">Sync to iCloud</h2>
+
+<p>Files that you create in <strong>Markin</strong> are stored on your Mac, and they are stored as Markdown (.md).</p>
+
+<p>You are free to sync these files into iCloud. If you don’t know how to use iCloud, please read Apple’s iCloud documentation.</p>
+
+:ET
