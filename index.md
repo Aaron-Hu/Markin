@@ -6,13 +6,13 @@ layout: default
 
 > **Everything you write are stored as markdown**
 
-![write efficiently](markin.png)
+![write efficiently](/assets/img/markin.png)
 Welcome to **Markin**. **Markin** is a beautiful, simple and efficient writing software that supports **Markdown**. With efficiency and quick commands, you can focus on writing and notes taking.
 * No need to remember Markdown syntax, **/** is your friend.
 * Type **/** in a new line to insert everything you need.
 * Select any text to change its style, customise format is simple.
 
-![write efficiently](markin.gif)
+![write efficiently](/assets/img/markin.gif)
 
 # Table of contents is supported
 

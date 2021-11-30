@@ -13,11 +13,11 @@ permalink: /support-en
 * No need to remember Markdown syntax, **/** is your friend.
 * Type **/** in a new line to insert everything you need.
 * Select any text to change its style, customise format is simple.
-![write efficiently](markin.gif)
+![write efficiently](/assets/img/markin.gif)
 
 ## Stored on your computer
 Files that you create in **Markin** are stored on your Mac. It's safe and controlled on your own. To open it, right-click on the file or folder you want to open in **Markin** and click `Reveal in Finder`
-![Stored on your computer](local.png)
+![Stored on your computer](/assets/img/local.png)
 
 ## Workspace 🪐
 
@@ -43,7 +43,7 @@ Using the ••• button in the upper right corner to open the toolbar.
 * Export - Export as PDF, HTML or Markdown
 
 ## Table of contents
-![Toc](toc.png)
+![Toc](/assets/img/toc.png)
 
 ## Emoji😀
 
