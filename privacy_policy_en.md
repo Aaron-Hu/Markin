@@ -28,4 +28,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-Email: [markin.101@hotmail.com](mailto:markin.101@hotmail.com)
+Email: [markin.app@hotmail.com](mailto:markin.app@hotmail.com)
