@@ -1,60 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>User Guide | Markin</title>
-<meta name="generator" content="Jekyll v4.2.1" />
-<meta property="og:title" content="User Guide" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Writing and notes taking with Markdown." />
-<meta property="og:description" content="Writing and notes taking with Markdown." />
-<link rel="canonical" href="http://localhost:4000/support-en" />
-<meta property="og:url" content="http://localhost:4000/support-en" />
-<meta property="og:site_name" content="Markin" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="User Guide" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/support-en","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.png"}},"headline":"User Guide","description":"Writing and notes taking with Markdown.","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-
-        
-          <img src="/assets/img/logo.png" alt="Logo" />
-        
-
-        <p>Writing and notes taking with Markdown.</p>
-
-        
-      </header>
-      <section>
-
-      <small></small>
-<h1>User Guide</h1>
-
-<h2 id="markin-supports-markdown-">Markin supports Markdown 🎨</h2>
+I"�<h2 id="markin-supports-markdown-">Markin supports Markdown 🎨</h2>
 
 <blockquote>
   <p>Everything you write are stored as markdown</p>
@@ -136,19 +80,4 @@ Using the ••• button in the upper right corner to open the Settings.
 <p>You are free to sync these files into iCloud. If you don’t know how to use iCloud, please read Apple’s iCloud documentation.</p>
 
 <p><a href="./">Home</a></p>
-
-
-
-
-
-      </section>
-      <footer>
-        <p><a href="support-en">Support</a></p>
-        <p><a href="privacy-policy-en">Privacy Policy</a></p>
-        <div>CONTACT</div>
-        <a href="mailto:markin.app@hotmail.com" id="email-link">markin.app@hotmail.com</a>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+:ET

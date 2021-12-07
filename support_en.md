@@ -30,11 +30,11 @@ The **Workspace** panel in the left column is the area to manage documents, wher
 * **More actions with Right-click.** Right-click on a file or folder and you will see more actions.
 
 
-## Toolbar 🛠
+## Settings 🛠
 
 
 :::
-Using the ••• button in the upper right corner to open the toolbar.
+Using the ••• button in the upper right corner to open the Settings.
 :::
 
 * Text - Adjust font size
